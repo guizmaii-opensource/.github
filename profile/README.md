@@ -23,5 +23,6 @@ Scala libraries, sbt plugins, and a few miscellaneous tools.
 
 ## Elsewhere
 
+- CV — [view](https://claude.ai/public/artifacts/7ac442d3-29af-4428-b2ca-82071719158e?fullscreen=true)
 - Twitter — [@guizmaii](https://x.com/guizmaii)
 - LinkedIn — [jules-ivanic](https://www.linkedin.com/in/jules-ivanic)
