@@ -8,6 +8,7 @@ Scala libraries, sbt plugins, and a few miscellaneous tools.
 
 - **[csvzen](https://github.com/guizmaii-opensource/csvzen)** — CSV made fast and simple.
 - **[scala-nimbus-jose-jwt](https://github.com/guizmaii-opensource/scala-nimbus-jose-jwt)** — JWT validation for Scala.
+- **[zio-background-cache](https://github.com/guizmaii-opensource/zio-background-cache)** — A tiny ZIO-native cache that refreshes itself in the background on a schedule you control.
 - **[zio-uuid](https://github.com/guizmaii-opensource/zio-uuid)** — UUID v1, v6, v7 and TypeID generation with ZIO.
 - **[zio-aes](https://github.com/guizmaii-opensource/zio-aes)** — A ZIO `AES` service exposing two functions: `::encrypt` and `::decrypt`.
 - **[zio-temporal](https://github.com/guizmaii-opensource/zio-temporal)** — Build invincible apps with ZIO on top of [Temporal](https://temporal.io).
