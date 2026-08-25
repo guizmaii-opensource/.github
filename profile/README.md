@@ -1,6 +1,6 @@
 # Open source by Jules Ivanic
 
-Scala libraries, sbt plugins, and a few miscellaneous tools.
+Scala libraries, DuckDB extensions, sbt plugins, and a few miscellaneous tools.
 
 ## Projects
 
@@ -12,6 +12,11 @@ Scala libraries, sbt plugins, and a few miscellaneous tools.
 - **[zio-uuid](https://github.com/guizmaii-opensource/zio-uuid)** — UUID v1, v6, v7 and TypeID generation with ZIO.
 - **[zio-aes](https://github.com/guizmaii-opensource/zio-aes)** — A ZIO `AES` service exposing two functions: `::encrypt` and `::decrypt`.
 - **[zio-temporal](https://github.com/guizmaii-opensource/zio-temporal)** — Build invincible apps with ZIO on top of [Temporal](https://temporal.io).
+
+### DuckDB
+
+- **[duckdb-rphonetic](https://github.com/guizmaii-opensource/duckdb-rphonetic)** — DuckDB extension adding Kölner Phonetik and Daitch-Mokotoff Soundex, for matching German and other European names.
+- **[duckdb-native](https://github.com/guizmaii-opensource/duckdb-native)** — DuckDB driver for the JVM that does not go through JDBC.
 
 ### sbt plugins
 
