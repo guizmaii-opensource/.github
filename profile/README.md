@@ -29,6 +29,6 @@ Scala libraries, DuckDB extensions, sbt plugins, and a few miscellaneous tools.
 
 ## Elsewhere
 
-- CV — [view](https://claude.ai/public/artifacts/7ac442d3-29af-4428-b2ca-82071719158e?fullscreen=true)
+- CV — [view](https://claude.ai/public/artifacts/c12f7eaa-ebf6-447f-b3df-2c6fd942c22f?fullscreen=true)
 - Twitter — [@guizmaii](https://x.com/guizmaii)
 - LinkedIn — [jules-ivanic](https://www.linkedin.com/in/jules-ivanic)
