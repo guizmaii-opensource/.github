@@ -29,7 +29,8 @@ Scala libraries, DuckDB extensions, sbt plugins, a few miscellaneous tools, and 
 
 ### Java
 
-- **[Zazr](https://github.com/guizmaii-opensource/zazr)** — Modern functional programming for Java 25+, inspired by Scala 2.13+, ZIO and zio-prelude: persistent collections, `Option`, `Either`, `Try`, `Validation`, and property-based testing. Website: [zazr.dev](https://zazr.dev/).
+- **[Zazr](https://github.com/guizmaii-opensource/zazr)** — Modern functional programming for Java 25+, inspired by Scala 2.13+, ZIO and zio-prelude: persistent collections, `Option`, `Either`, `Try`, `Validation`, and property-based testing.\
+  Website: [zazr.dev](https://zazr.dev/)
 
 ## Elsewhere
 
