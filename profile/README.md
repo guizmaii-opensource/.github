@@ -1,8 +1,12 @@
 # Open source by Jules Ivanic
 
-Scala libraries, DuckDB extensions, sbt plugins, and a few miscellaneous tools.
+A Java library, Scala libraries, DuckDB extensions, sbt plugins, and a few miscellaneous tools.
 
 ## Projects
+
+### Java
+
+- **[Zazr](https://github.com/guizmaii-opensource/zazr)** — Modern functional programming for Java 25+, inspired by Scala 2.13+, ZIO and zio-prelude: persistent collections, `Option`, `Either`, `Try`, `Validation`, and property-based testing. Website: [zazr.dev](https://zazr.dev/).
 
 ### Scala libraries
 
