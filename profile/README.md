@@ -1,12 +1,8 @@
 # Open source by Jules Ivanic
 
-A Java library, Scala libraries, DuckDB extensions, sbt plugins, and a few miscellaneous tools.
+Scala libraries, DuckDB extensions, sbt plugins, a few miscellaneous tools, and a Java library.
 
 ## Projects
-
-### Java
-
-- **[Zazr](https://github.com/guizmaii-opensource/zazr)** — Modern functional programming for Java 25+, inspired by Scala 2.13+, ZIO and zio-prelude: persistent collections, `Option`, `Either`, `Try`, `Validation`, and property-based testing. Website: [zazr.dev](https://zazr.dev/).
 
 ### Scala libraries
 
@@ -30,6 +26,10 @@ A Java library, Scala libraries, DuckDB extensions, sbt plugins, and a few misce
 ### Other
 
 - **[JRubyConcurrentConstantMemoryExcel](https://github.com/guizmaii-opensource/JRubyConcurrentConstantMemoryExcel)** — Write Excel files as fast as possible with constant RAM use in JRuby programs.
+
+### Java
+
+- **[Zazr](https://github.com/guizmaii-opensource/zazr)** — Modern functional programming for Java 25+, inspired by Scala 2.13+, ZIO and zio-prelude: persistent collections, `Option`, `Either`, `Try`, `Validation`, and property-based testing. Website: [zazr.dev](https://zazr.dev/).
 
 ## Elsewhere
 
